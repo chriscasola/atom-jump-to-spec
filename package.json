@@ -1,0 +1,22 @@
+{
+  "name": "atom-jump-to-spec",
+  "main": "./lib/atom-jump-to-spec",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atom-jump-to-spec:toggle"
+  },
+  "repository": "https://github.com/atom/atom-jump-to-spec",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.6.0",
+    "fs-plus": "^2.8.1",
+    "temp": "^0.8.3",
+    "wrench": "^1.5.9"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open spec file",
+        "command": "atom-jump-to-spec:open-spec"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Jump to spec",
+          "submenu": [
+            {
+              "label": "Open spec file",
+              "command": "atom-jump-to-spec:open-spec"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

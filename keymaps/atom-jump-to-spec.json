@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "cmd-shift-t": "atom-jump-to-spec:open-spec",
+    "alt-shift-t": "atom-jump-to-spec:open-spec"
+  }
+}
