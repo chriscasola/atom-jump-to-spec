@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atom-jump-to-spec:toggle"
   },
-  "repository": "https://github.com/atom/atom-jump-to-spec",
+  "repository": "https://github.com/chriscasola/atom-jump-to-spec",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
