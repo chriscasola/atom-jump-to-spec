@@ -34,7 +34,7 @@ describe('AtomJumpToSpec', () => {
     });
   });
 
-  fdescribe('open spec file', () => {
+  describe('open spec file', () => {
     it('opens the test file corresponding to the current open file', () => {
       atom.commands.dispatch(workspaceElement, 'atom-jump-to-spec:open-spec');
 
