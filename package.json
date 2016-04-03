@@ -4,9 +4,6 @@
   "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "atom-jump-to-spec:toggle"
-  },
   "repository": "https://github.com/chriscasola/atom-jump-to-spec",
   "license": "MIT",
   "engines": {
