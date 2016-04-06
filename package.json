@@ -1,7 +1,7 @@
 {
   "name": "atom-jump-to-spec",
   "main": "./lib/atom-jump-to-spec",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/chriscasola/atom-jump-to-spec",
